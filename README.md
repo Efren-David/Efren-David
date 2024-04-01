@@ -1,5 +1,8 @@
 Hola soy eDavid Velazquez 👋
 
+
+![Uploading backiee-282378.jpg…]()
+
 Actualmente estoy estudiando Ingeniería Informática en el Instituto Tecnológico de Estudios Superiores de Ecatepec. 
 Desde que era joven, siempre me ha fascinado explorar cómo funciona el mundo digital y cómo puedo contribuir a él.
 
