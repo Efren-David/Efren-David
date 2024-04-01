@@ -1,16 +1,22 @@
-### Hi there 👋
+Hola soy eDavid Velazquez 👋
 
-<!--
-**Efren-David/Efren-David** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy estudiando Ingeniería Informática en el Instituto Tecnológico de Estudios Superiores de Ecatepec. 
+Desde que era joven, siempre me ha fascinado explorar cómo funciona el mundo digital y cómo puedo contribuir a él.
 
-Here are some ideas to get you started:
+Mi enfoque principal de estudio se centra en el desarrollo web y la administración de servidores. 
+Me encanta trabajar en proyectos que me desafíen y me permitan aplicar mis habilidades de programación y diseño para crear soluciones innovadoras. 
+Disfruto especialmente de la creación de aplicaciones web eficientes y amigables para el usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Considero que soy una persona curiosa y creativa, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. 
+Me gusta mantenerme al tanto de las últimas tendencias en el campo de la tecnología y estoy constantemente 
+explorando nuevas herramientas y técnicas para mejorar mi trabajo.
+
+Creo firmemente en la importancia de la ética de trabajo y la perseverancia. Me esfuerzo por enfrentar cada desafío con determinación
+y dedicación, siempre buscando superarme a mí mismo y alcanzar mis metas. Estoy emocionado por lo que el futuro me depara en la 
+industria tecnológica y estoy comprometido a seguir creciendo y destacándome en este apasionante campo.
+
+
+
+
+
+
