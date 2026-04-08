@@ -9,11 +9,14 @@ Mi enfoque está en:
 + Bases de datos SQL y NoSQL
 
 ## 📚 Proyectos destacados
-Aquí comparto proyectos prácticos que aplican patrones modernos y buenas prácticas de desarrollo:
 
-Aplicaciones Java/Spring Boot con arquitectura hexagonal
-Integración de monitorización con Grafana, Prometheus y ELK stack
-Microservicios en nubes como AWS
+🚀 Microservicios (Más recientes / Profesionales)
+mw-usuario-direccion
+→ Microservicio que valida y agrega tres objetos relacionados con dirección de usuario.
+ms-core-portal
+→ Microservicio para validación de credenciales y autenticación de usuarios.
+invmaquinasautoservicio
+→ Sistema backend para inventario de máquinas de autoservicio.
 
 
 
