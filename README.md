@@ -16,7 +16,7 @@ Mi enfoque está en:
 
 `ms-core-portal` Microservicio para validación de credenciales y autenticación de usuarios.
 
-`invmaquinasautoservicio` Sistema backend para inventario de máquinas de autoservicio.+ Sistema backend para inventario de máquinas de autoservicio.
+`invmaquinasautoservicio` Sistema backend para inventario de máquinas de autoservicio.
 
 
 
