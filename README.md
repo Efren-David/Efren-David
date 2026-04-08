@@ -47,15 +47,15 @@ Mi enfoque está en:
 + `API_Usuarios_JWT` API con autenticación JWT.
 + `ApiRest` API REST básica con configuración de rutas y controladores.
 
-## 📫 Contacto
-
-Correo:edavidvelazquez4@gmail.com
-
-
-##  🛠 Tecnologías que uso
+  ##  🛠 Tecnologías que uso
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3-green)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue)
+
+
+## 📫 Contacto
+Correo:edavidvelazquez4@gmail.com
+
 
 
 
