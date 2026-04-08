@@ -1,24 +1,19 @@
-Hola soy eDavid Velazquez 👋
+¡Buenas! Soy David Gonzalez Velazquez 👋
+Desarrollador Backend.
 
+Mi enfoque está en:
 
+Java moderno y Spring Boot
+Microservicios y arquitectura limpia
+DevOps y CI/CD
+Bases de datos SQL y NoSQL
 
-Actualmente estoy estudiando Ingeniería Informática en el Instituto Tecnológico de Estudios Superiores de Ecatepec. 
-Desde que era joven, siempre me ha fascinado explorar cómo funciona el mundo digital y cómo puedo contribuir a él.
+📚 Proyectos destacados
+Aquí comparto proyectos prácticos que aplican patrones modernos y buenas prácticas de desarrollo:
 
-Mi enfoque principal de estudio se centra en el desarrollo web y la administración de servidores. 
-Me encanta trabajar en proyectos que me desafíen y me permitan aplicar mis habilidades de programación y diseño para crear soluciones innovadoras. 
-Disfruto especialmente de la creación de aplicaciones web eficientes y amigables para el usuario.
-
-Considero que soy una persona curiosa y creativa, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. 
-Me gusta mantenerme al tanto de las últimas tendencias en el campo de la tecnología y estoy constantemente 
-explorando nuevas herramientas y técnicas para mejorar mi trabajo.
-
-Creo firmemente en la importancia de la ética de trabajo y la perseverancia. Me esfuerzo por enfrentar cada desafío con determinación
-y dedicación, siempre buscando superarme a mí mismo y alcanzar mis metas. Estoy emocionado por lo que el futuro me depara en la 
-industria tecnológica y estoy comprometido a seguir creciendo y destacándome en este apasionante campo.
-
-
-
+Aplicaciones Java/Spring Boot con arquitectura hexagonal
+Integración de monitorización con Grafana, Prometheus y ELK stack
+Microservicios en nubes como AWS
 
 
 
