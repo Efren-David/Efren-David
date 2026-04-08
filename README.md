@@ -12,8 +12,8 @@ Mi enfoque está en:
 
 🚀 Microservicios (Más recientes / Profesionales)
 
-`mw-usuario-direccion`
-+ Microservicio que valida y agrega tres objetos relacionados con dirección de usuario.
+`mw-usuario-direccion` + Microservicio que valida y agrega tres objetos relacionados con dirección de usuario.
+
   
 `ms-core-portal`
 + Microservicio para validación de credenciales y autenticación de usuarios.
