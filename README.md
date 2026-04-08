@@ -81,7 +81,9 @@ Mi enfoque está en:
 
 
 ## 📫 Contacto
-Correo:edavidvelazquez4@gmail.com
+Correo: 
++ edavidvelazquez4@gmail.com
++ edavidgv-@outlook.com
 
 
 
