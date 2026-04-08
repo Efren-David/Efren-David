@@ -13,28 +13,28 @@ Mi enfoque está en:
 ## 🚀 Microservicios (Más recientes / Profesionales)
 + `mw-usuario-direccion` Microservicio que valida y agrega tres objetos relacionados con dirección de usuario.
 
-+`ms-core-portal` Microservicio para validación de credenciales y autenticación de usuarios.
++ `ms-core-portal` Microservicio para validación de credenciales y autenticación de usuarios.
 
-+`invmaquinasautoservicio` Sistema backend para inventario de máquinas de autoservicio.
++ `invmaquinasautoservicio` Sistema backend para inventario de máquinas de autoservicio.
 
 ## 💼 Proyectos Empresariales / Sistemas
-`Adm_Taxis` Sistema para gestión de costos, licencias y permisos de concesión de taxis.
++ `Adm_Taxis` Sistema para gestión de costos, licencias y permisos de concesión de taxis.
 
-`amazon-api` API para simulación de pedidos y gestión de órdenes.
++ `amazon-api` API para simulación de pedidos y gestión de órdenes.
 
-`libreria-api` API REST para gestión de librería con pruebas en Postman.
++ `libreria-api` API REST para gestión de librería con pruebas en Postman.
 
 ## 🧠 Full Stack / Arquitectura Profesional
-`ReactJS-Spring-Boot-CRUD-Full-Stack-App` Aplicación Full Stack con React + Spring Boot para gestión organizacional.
++ `ReactJS-Spring-Boot-CRUD-Full-Stack-App` Aplicación Full Stack con React + Spring Boot para gestión organizacional.
 
-`API_Spring-Boot_listadeTareas` API REST de lista de tareas con persistencia en base de datos.
++ `API_Spring-Boot_listadeTareas` API REST de lista de tareas con persistencia en base de datos.
 
-`VentasCarro-SpringBoot-MySQL-APIRest` API REST para gestión de ventas de vehículos con MySQL.
++ `VentasCarro-SpringBoot-MySQL-APIRest` API REST para gestión de ventas de vehículos con MySQL.
 
 ## ⚡ Proyectos Avanzados Spring Boot
-`Spring_Boot-GraphQL-Gestion-de-Estudiantes-y-Maestros` Aplicación Spring Boot usando GraphQL.
++ `Spring_Boot-GraphQL-Gestion-de-Estudiantes-y-Maestros` Aplicación Spring Boot usando GraphQL.
 
-`Car-Rental` API REST para gestión de vehículos (CRUD).
++ `Car-Rental` API REST para gestión de vehículos (CRUD).
 
 `Hotel-Server`
  Sistema hotelero con:
