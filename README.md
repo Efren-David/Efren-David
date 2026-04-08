@@ -8,7 +8,7 @@ Mi enfoque está en:
 + DevOps y CI/CD
 + Bases de datos SQL y NoSQL
 
-## 📚 Proyectos destacados
+# 📚 Proyectos destacados
 
 ## 🚀 Microservicios (Más recientes / Profesionales)
 `mw-usuario-direccion` Microservicio que valida y agrega tres objetos relacionados con dirección de usuario.
