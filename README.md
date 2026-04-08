@@ -10,8 +10,7 @@ Mi enfoque está en:
 
 ## 📚 Proyectos destacados
 
-🚀 Microservicios (Más recientes / Profesionales)
-
+## 🚀 Microservicios (Más recientes / Profesionales)
 `mw-usuario-direccion` Microservicio que valida y agrega tres objetos relacionados con dirección de usuario.
 
 `ms-core-portal` Microservicio para validación de credenciales y autenticación de usuarios.
@@ -19,7 +18,6 @@ Mi enfoque está en:
 `invmaquinasautoservicio` Sistema backend para inventario de máquinas de autoservicio.
 
 ## 💼 Proyectos Empresariales / Sistemas
-
 `Adm_Taxis` Sistema para gestión de costos, licencias y permisos de concesión de taxis.
 
 `amazon-api` API para simulación de pedidos y gestión de órdenes.
@@ -33,6 +31,17 @@ Mi enfoque está en:
 
 `VentasCarro-SpringBoot-MySQL-APIRest` API REST para gestión de ventas de vehículos con MySQL.
 
+## ⚡ Proyectos Avanzados Spring Boot
+`Spring_Boot-GraphQL-Gestion-de-Estudiantes-y-Maestros` Aplicación Spring Boot usando GraphQL.
+
+`Car-Rental` API REST para gestión de vehículos (CRUD).
+
+`Hotel-Server`
+ Sistema hotelero con:
++ Spring Boot 3
++ Spring Security
++ Angular 16
++ MySQL
 
 
 
