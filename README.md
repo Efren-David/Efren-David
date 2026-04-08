@@ -47,9 +47,6 @@ Mi enfoque está en:
 + `API_Usuarios_JWT` API con autenticación JWT.
 + `ApiRest` API REST básica con configuración de rutas y controladores.
 
-  ##  🛠 Tecnologías que uso
-## 🚀 Tecnologías
-
 ## 🚀 Tecnologías y Herramientas
 
 <p align="left">
