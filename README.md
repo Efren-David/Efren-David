@@ -3,7 +3,7 @@ Desarrollador Backend.
 
 Mi enfoque está en:
 
-Java moderno y Spring Boot
++ Java moderno y Spring Boot
 Microservicios y arquitectura limpia
 DevOps y CI/CD
 Bases de datos SQL y NoSQL
