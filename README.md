@@ -11,11 +11,11 @@ Mi enfoque está en:
 # 📚 Proyectos destacados
 
 ## 🚀 Microservicios (Más recientes / Profesionales)
-`mw-usuario-direccion` Microservicio que valida y agrega tres objetos relacionados con dirección de usuario.
++ `mw-usuario-direccion` Microservicio que valida y agrega tres objetos relacionados con dirección de usuario.
 
-`ms-core-portal` Microservicio para validación de credenciales y autenticación de usuarios.
++`ms-core-portal` Microservicio para validación de credenciales y autenticación de usuarios.
 
-`invmaquinasautoservicio` Sistema backend para inventario de máquinas de autoservicio.
++`invmaquinasautoservicio` Sistema backend para inventario de máquinas de autoservicio.
 
 ## 💼 Proyectos Empresariales / Sistemas
 `Adm_Taxis` Sistema para gestión de costos, licencias y permisos de concesión de taxis.
