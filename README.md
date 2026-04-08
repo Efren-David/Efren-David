@@ -48,9 +48,20 @@ Mi enfoque está en:
 + `ApiRest` API REST básica con configuración de rutas y controladores.
 
   ##  🛠 Tecnologías que uso
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3-green)
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-green?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6-green?logo=springsecurity&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue)
+![REST API](https://img.shields.io/badge/API-REST-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build-red?logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Authentication-black?logo=jsonwebtokens)
+![Spring Security](https://img.shields.io/badge/Spring_Security-Auth-green?logo=springsecurity)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Kafka](https://img.shields.io/badge/Kafka-Event_Streaming-black?logo=apachekafka)
 
 
 ## 📫 Contacto
