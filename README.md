@@ -8,7 +8,7 @@ Mi enfoque está en:
 + DevOps y CI/CD
 + Bases de datos SQL y NoSQL
 
-📚 Proyectos destacados
+## 📚 Proyectos destacados
 Aquí comparto proyectos prácticos que aplican patrones modernos y buenas prácticas de desarrollo:
 
 Aplicaciones Java/Spring Boot con arquitectura hexagonal
