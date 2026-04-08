@@ -26,6 +26,13 @@ Mi enfoque está en:
 
 `libreria-api` API REST para gestión de librería con pruebas en Postman.
 
+## 🧠 Full Stack / Arquitectura Profesional
+`ReactJS-Spring-Boot-CRUD-Full-Stack-App` Aplicación Full Stack con React + Spring Boot para gestión organizacional.
+
+`API_Spring-Boot_listadeTareas` API REST de lista de tareas con persistencia en base de datos.
+
+`VentasCarro-SpringBoot-MySQL-APIRest` API REST para gestión de ventas de vehículos con MySQL.
+
 
 
 
