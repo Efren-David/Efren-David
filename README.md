@@ -43,5 +43,9 @@ Mi enfoque está en:
 + Angular 16
 + MySQL
 
+## 🔐 Seguridad / Autenticación
++ `API_Usuarios_JWT` API con autenticación JWT.
++ `ApiRest` API REST básica con configuración de rutas y controladores.
+
 
 
